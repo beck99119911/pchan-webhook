@@ -1,0 +1,10 @@
+{
+  "name": "pchan-webhook-receiver",
+  "version": "1.0.0",
+  "description": "Coinbase Commerce Webhook receiver for OpenClaw",
+  "main": "api/webhook.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
